@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sakthivel
-- 👀 I’m interested inGame Development and Design
+- 👀 I’m interested in Game Development and Design
 - 🌱 I’m currently learning Unreal
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me velsakthi562@gmail.com
